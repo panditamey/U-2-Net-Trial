@@ -1,0 +1,4 @@
+# Ignore .pth files in any directory
+**/*.pth
+/.venv
+__pycache__
